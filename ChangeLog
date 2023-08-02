@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ChangeLog</title>
+  <style>
+    body {
+      background-image: url('Imagem de Fundo');
+      background-size: cover;
+      background-repeat: no-repeat;
+      text-align: center;
+      padding-top: 50px; /* Ajuste a quantidade de espaço acima do "ChangeLog" */
+    }
+ 
+    h1 {
+      font-size: 35px;
+      color: #ff9900;
+    }
+ 
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+ 
+    li {
+      font-size: 16px;
+      color: #ffffff;
+      text-align: center;
+      margin: 1rem;
+       }
+    aside {
+        float: right;
+        top: 0;
+        right: 0;
+        position: absolute;
+        margin-top: 10%;
+    }
+    aside a {
+        text-decoration: none;
+        color: #fff;
+    }
+    aside li {
+    gap: 0.75rem;
+    display: flex;
+    margin-top: 1.5rem;
+    position: relative;
+}
+    b span {
+      color: green; /* Defina a cor desejada aqui */
+    }
+  </style>
+</head>
+<body>
+  <h1>CHANGELOG [2023]</h1>
+  <span style="font-size: 18px; color: #ff9900;"><strong>02/08/2023</strong></span>
+  <ul>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u19" style="color: #337ab7">Akira</a> não integra mais a STAFF
+      <li>- <b>[EM BREVE]: TikTok Oficial dos Sequendianos! <i class="latin">(Gravados pela STAFF)</i></b>
+  </ul>
+  <span style="font-size: 18px; color: #ff9900;"><strong>01/08/2023</strong></span>
+  <ul>
+    <li>- <b>VAGAS NA STAFF</b> (<a href="https://sequendfamilia.forumeiros.com/t45-importante-vagas-na-staff" style="color: #337ab7"><span>Veja aqui</span></a>)</li>
+    <li>- <b>VOTAÇÃO:</b> Ainda está rolando a Votação para o <b>SequendCraft</b> (<a href="https://sequendfamilia.forumeiros.com/t24-minecraft-seria-este-o-futuro" style="color: #337ab7"><span>Veja aqui</span></a>)</li>
+    <li>- <b>[VEJAM]:</b> Sigam-nos em nosso <b>Instagram oficial</b> - <a href="https://www.instagram.com/sequendianos/" style="color: #FFFF00"><span><b>@Sequendianos</b></span></a></li>
+  </ul>
+      <span style="font-size: 18px; color: #ff9900;"><strong>31/07/2023</strong></span>
+  <ul>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u23" style="color: #337ab7">Ariel</a> aceito como Programador
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u22" style="color: #337ab7">Dean</a> aceito na STAFF
+    <li>- <b>[VEJAM]:</b> Sigam-nos em nosso <b>Instagram oficial</b> - <a href="https://www.instagram.com/sequendianos/" style="color: #FFFF00"><span><b>@Sequendianos</b></span></a></li>
+    <li>- <b>[INSTAGRAM]:</b> Novo <b>Story e Publicação</b> Postados! - Confiram!
+    <li>- <b>[NOVIDADE]: Você Sabia ?</b> (<a href="https://sequendfamilia.forumeiros.com/t66-novidade-voce-sabia#82" style="color: #337ab7"><span>Veja aqui</span></a>)</li>
+      <ul> 
+    </ul>
+  <span style="font-size: 18px; color: #ff9900;"><strong>28/07/2023</strong></span>
+  <ul>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u21" style="color: #337ab7">Marlon</a> reintegrado a STAFF</li>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u5" style="color: #337ab7">Gabriele</a> é a nova Responsável pelo Jornal</li>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u10" style="color: #337ab7">Thay</a> é a nova Responsável pela Design</li>
+    <ul>
+      <li>- <b>[DISCORD]: NOVO SERVIDOR</b> (<a href="https://sequendfamilia.forumeiros.com/t64-discord-novo-servidor" style="color: #337ab7"><span>Veja aqui</span></a>)</li>
+      </ul>
+  </ul>
+  <span style="font-size: 18px; color: #ff9900;"><strong>26/07/2023</strong></span>
+  <ul>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u19" style="color: #337ab7">Akira</a> aceita na STAFF</li>
+    <li>- <a href="https://sequendfamilia.forumeiros.com/u2" style="color: #337ab7">Sleep</a> promovido a <b>Sub-Diretor</b></li>
+    <ul>
+      <li>- <b>VAGAS NA STAFF</b> (<a href="https://sequendfamilia.forumeiros.com/t45-importante-vagas-na-staff***" style="color: #337ab7"><span>Veja aqui</span></a>)</li>
+      </ul>
+      <ul>
+        <li>- <b>VAGAS NA SECUNDARIA</b> (<a href="https://sequendfamilia.forumeiros.com/t9-novidade-equipe-secundarios" style="color: #337ab7"><span>Veja aqui</span></a>)</li>
+      </ul>
+  <aside>
+    <span style="font-size: 18px;color:#ff9900;"><strong>Links úteis</strong></span>
+  <ul>
+    <li><img scr="{https://i.servimg.com/u/f53/20/50/76/90/image44.png}"/><a href="instagram.com/sequendfamily">Instagram</a></li>
+    <li><img scr="{LINK_DA_IMAGEM}"/><a href="#">{LINK_DO_SITE}</a></li>
+    <li><img scr="{LINK_DA_IMAGEM}"/><a href="#">{LINK_DO_SITE}</a></li>
+    <li><img scr="{LINK_DA_IMAGEM}"/><a href="#">{LINK_DO_SITE}</a></li>
+    <li><img scr="{LINK_DA_IMAGEM}"/><a href="#">{LINK_DO_SITE}</a></li>
+  </ul>
+  </aside>
+</body>
+</html>
